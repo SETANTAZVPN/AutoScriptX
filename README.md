@@ -1,7 +1,3 @@
-# Directly install without the need to register an IP VPS 
-
-# Order from me (MUST READ) before using
-
 </p> 
 <h2 align="center"> Supported Linux Distribution</h2>
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></p> 
